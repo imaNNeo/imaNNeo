@@ -5,7 +5,7 @@
   <br />
 </p>
 
-I'm a [Flutter](https://flutter.dev)/[Android](https://www.android.com) Developer with more than eight years experience on software engineering. Building production-level mobile applications in multiple industries including Social Media, Shopping, Fin-Tech, E-Commerce, and Maps.
+I'm a [Flutter](https://flutter.dev)/[Android](https://www.android.com) Developer with more than eight years experience on software engineering. Building production-level mobile applications in multiple industries including `Social Media`, `Fin-Tech`, `E-Commerce`, and `Maps`.
 
 * 🤗 About me
     - Flutter is my favorite thing 💙!
@@ -19,7 +19,7 @@ I'm a [Flutter](https://flutter.dev)/[Android](https://www.android.com) Develope
     * [Twitter](https://twitter.com/imaN_Khoshabi)
     * [Linkedin](https://www.linkedin.com/in/iman-khoshabi-7782a9114)
 
-* ⚡ Fun fact: I choose **NeO** as my nickname before I watch the Matrix movie!
+* ⚡ Fun fact: I choose **NeO** as my nickname before I watch [the Matrix movie](https://en.wikipedia.org/wiki/The_Matrix_(franchise))!
   
 <br />
 <div style="display: flex; align-items: center;">
@@ -38,4 +38,4 @@ I'm a [Flutter](https://flutter.dev)/[Android](https://www.android.com) Develope
 
 -------
 
-🌐 [Flutter4Fun](http://flutter4fun.com) is my blog where I implement and explain UI Challenges.
+🌐 [Flutter4Fun](http://flutter4fun.com) is my blog where I implement and explain **UI Challenges**.
