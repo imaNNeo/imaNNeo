@@ -19,7 +19,7 @@ I'm a [Flutter](https://flutter.dev)/[Android](https://www.android.com) Develope
     * [Twitter](https://twitter.com/imaN_Khoshabi)
     * [Linkedin](https://www.linkedin.com/in/iman-khoshabi-7782a9114)
 
-* ⚡ Fun fact: I choose **NeO** as my nickname before I watch [the Matrix movie](https://en.wikipedia.org/wiki/The_Matrix_(franchise))!
+* ⚡ Fun fact: I chose **NeO** as my nickname before I watch [the Matrix movie](https://en.wikipedia.org/wiki/The_Matrix_(franchise))!
   
 <br />
 <div style="display: flex; align-items: center;">
