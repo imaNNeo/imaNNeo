@@ -29,7 +29,7 @@ I'm a [Flutter](https://flutter.dev)/[Android](https://www.android.com) Develope
 </div>
 
 -------
-📊 [FL Chart](https://pub.dev/packages/fl_chart) is my biggest open-source project.
+📊 [fl_chart](https://pub.dev/packages/fl_chart) is my biggest open-source project.
 <div>
   <a href="https://github.com/imaNNeoFighT/fl_chart">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imaNNeoFighT&repo=fl_chart&theme=dracula" alt="Flutter Puzzle Hack Project Repo" />
