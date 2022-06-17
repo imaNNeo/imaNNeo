@@ -1,10 +1,3 @@
-
-<p align="center">
-		<img alt="Iman's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Iman">
-  <br />
-</p>
-
 I'm a [Flutter](https://flutter.dev)/[Android](https://www.android.com) Developer with more than eight years experience on software engineering. Building production-level mobile applications in multiple industries including `Social Media`, `Fin-Tech`, `E-Commerce`, and `Maps`.
 
 * 🤗 About me
