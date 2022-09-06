@@ -1,4 +1,6 @@
-I'm a [Flutter](https://flutter.dev)/[Android](https://www.android.com) Developer with more than eight years experience on software engineering. Building production-level mobile applications in multiple industries including `Social Media`, `Fin-Tech`, `E-Commerce`, and `Maps`.
+I have been a Software Engineer for **8 years** now. This includes **7 years** of **Mobile Application Development**. It also has been **3 years** since I started working with **Flutter**.
+Contributing to the Flutter community has been my passion. That is why I created the **[fl_chart](https://github.com/imaNNeoFighT/fl_chart)** plugin (which has **+4.9k starts**). I also have published the **[flutter4fun](http://flutter4fun.com)** blog to solve **UI Challenges** in the form of blog posts.
+My **Android** (**Kotlin**, **Java**) Development background includes working in several companies such as `Maps and Navigation`, `Social Media`, `Shopping`, `Fin-Tech`, and `E-commerce`.
 
 * 🤗 About me
     - Flutter is my favorite thing 💙!
@@ -8,7 +10,7 @@ I'm a [Flutter](https://flutter.dev)/[Android](https://www.android.com) Develope
     
 
 * 📫 How to reach me:
-    * Email: iman.neofight@gmail.com
+    * iman.neofight@gmail.com
     * [Twitter](https://twitter.com/imaN_Khoshabi)
     * [Linkedin](https://www.linkedin.com/in/iman-khoshabi-7782a9114)
 
@@ -20,15 +22,3 @@ I'm a [Flutter](https://flutter.dev)/[Android](https://www.android.com) Develope
 
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=imaNNeoFighT&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="imaNNeoFighT's GitHub Streaks" />
 </div>
-
--------
-📊 [fl_chart](https://pub.dev/packages/fl_chart) is my biggest open-source project.
-<div>
-  <a href="https://github.com/imaNNeoFighT/fl_chart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imaNNeoFighT&repo=fl_chart&theme=dracula" alt="Flutter Puzzle Hack Project Repo" />
-  </a>
-</div>
-
--------
-
-🌐 [Flutter4Fun](http://flutter4fun.com) is my blog where I implement and explain **UI Challenges**.
