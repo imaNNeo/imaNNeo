@@ -18,7 +18,7 @@ My **Android** (**Kotlin**, **Java**) Development background includes working in
   
 <br />
 <div style="display: flex; align-items: center;">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=imaNNeoFighT&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="imaNNeoFighT's Github Stats" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=imaNNeo&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="imaNNeo's Github Stats" />
 
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=imaNNeoFighT&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="imaNNeoFighT's GitHub Streaks" />
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=imaNNeo&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="imaNNeo's GitHub Streaks" />
 </div>
