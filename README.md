@@ -1,5 +1,5 @@
 I have been a Software Engineer for **10 years** now. This includes **9 years** of **Mobile Application Development**. It also has been **5 years** since I started working with **Flutter**.
-Contributing to the Flutter community has been my passion. That is why I created the **[fl_chart](https://github.com/imaNNeo/fl_chart)** plugin (which has **+5.3k starts**). I also have published the **[flutter4fun](http://flutter4fun.com)** blog to solve **UI Challenges** in the form of blog posts.
+Contributing to the Flutter community has been my passion. That is why I created the **[fl_chart](https://github.com/imaNNeo/fl_chart)** plugin (which has **+6.3k starts**). I also have published the **[flutter4fun](http://flutter4fun.com)** blog to solve **UI Challenges** in the form of blog posts.
 My **Android** (**Kotlin**, **Java**) Development background includes working in several companies such as `Maps and Navigation`, `Social Media`, `Shopping`, `Fin-Tech`, and `E-commerce`.
 
 * 🤗 About me
