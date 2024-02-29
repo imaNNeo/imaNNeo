@@ -4,7 +4,7 @@ My **Android** (**Kotlin**, **Java**) Development background includes working in
 
 ### Open Source Projects
 
-[![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=imaNNeo&repo=fl_chart)](https://github.com/imaNNeo/fl_chart)
+[![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=imaNNeo&repo=fl_chart&theme=transparent)](https://github.com/imaNNeo/fl_chart)
 
 * 🤗 About me
     - Flutter is my favorite thing 💙!
