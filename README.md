@@ -1,21 +1,22 @@
-I have been a Software Engineer (Mobile) for **10 years** now. It also has been **5 years** since I started working with **Flutter**.
-Contributing to the Flutter community has been my passion. That is why I created the **[fl_chart](https://github.com/imaNNeo/fl_chart)** plugin (which has **+7.5k starts**). I also have published the **[flutter4fun](http://flutter4fun.com)** blog to solve **UI Challenges** in the form of blog posts.
-My **Android** (**Kotlin**, **Java**) Development background includes working in several companies such as `Maps and Navigation`, `Social Media`, `Shopping`, `Fin-Tech`, and `E-commerce`.
+## Hi, I'm Iman 👋
 
-### Open Source Projects
+I'm a senior mobile engineer based in Amsterdam. I've been building mobile apps for **10+ years**, with a mix of **Android (Kotlin/Java)** and **Flutter (Dart)**.
 
+I like building products that feel fast and solid, and I care a lot about clean structure and good UI details. I also enjoy sharing what I learn through open source and small write-ups.
+
+### A few things about what I work on
+- 📱 Mobile apps end-to-end: from architecture to release
+- 🧩 Flutter + native Android (I’m comfortable in both)
+- ⚖️ Shipping with a balance: clean code, but not over-engineered
+- 🎨 UI/UX implementation (I’m picky about details 😄)
+- 🎮 A bit of game development on the side (Godot, Cocos Creator, Flame)
+
+### Open source / writing / videos
+- 📊 I maintain **[fl_chart](https://github.com/imaNNeo/fl_chart)** (7.5k+ ⭐)
+- ✍️ I write about UI challenges at **[flutter4fun.com](http://flutter4fun.com)**
+- 🎥 I also share dev videos on YouTube: **https://www.youtube.com/@imaNNeO**
+
+⚡ Fun fact: I picked **NeO** as my nickname before watching *The Matrix*.
+
+### Featured project
 [![fl_chart](https://github-readme-stats-fast.vercel.app/api/pin/?username=imaNNeo&repo=fl_chart&theme=dracula)](https://github.com/imaNNeo/fl_chart)
-
-* 🤗 About me
-    - Flutter is my favorite thing 💙!
-    - Trying to learn new things as long as I'm alive
-    - Eager to share my knowledge. Because it satisfies me 🥳
-    - Interested in implementing sophisticated UI/UX designs
-    
-
-* 📫 How to reach me:
-    * iman.neofight@gmail.com
-    * [Twitter](https://twitter.com/imaN_Khoshabi)
-    * [Linkedin](https://www.linkedin.com/in/iman-khoshabi-7782a9114)
-
-* ⚡ Fun fact: I chose **NeO** as my nickname before I watch [the Matrix movie](https://en.wikipedia.org/wiki/The_Matrix_(franchise))!
