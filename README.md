@@ -1,22 +1,20 @@
 ## Hi, I'm Iman 👋
 
-I'm a senior mobile engineer based in Amsterdam. I've been building mobile apps for **10+ years**, with a mix of **Android (Kotlin/Java)** and **Flutter (Dart)**.
+**Senior software engineer · Amsterdam**
+10+ years of building software, mostly for mobile.
 
-I like building products that feel fast and solid, and I care a lot about clean structure and good UI details. I also enjoy sharing what I learn through open source and small write-ups.
+These days I mostly build mobile apps, from the first architecture sketch to the release, and I leverage AI along the way. Next to that, I share what I learn through open source, write-ups and videos.
 
-### A few things about what I work on
-- 📱 Mobile apps end-to-end: from architecture to release
-- 🧩 Flutter + native Android (I’m comfortable in both)
-- ⚖️ Shipping with a balance: clean code, but not over-engineered
-- 🎨 UI/UX implementation (I’m picky about details 😄)
-- 🎮 A bit of game development on the side (Godot, Cocos Creator, Flame)
+### What I work on
+- 📱 Mobile apps, end to end
+- 🤖 Android and Flutter (Kotlin, Java, Dart). I'm comfortable in both.
+- 🎮 Small games for fun, some of them with the help of AI: [games.imanneo.dev](https://games.imanneo.dev)
 
-### Open source / writing / videos
-- 📊 I maintain **[fl_chart](https://github.com/imaNNeo/fl_chart)** (7.5k+ ⭐)
-- ✍️ I write about UI challenges at **[flutter4fun.com](http://flutter4fun.com)**
-- 🎥 I also share dev videos on YouTube: **https://www.youtube.com/@imaNNeO**
+### Open source, writing and videos
+- 📊 **[fl_chart](https://github.com/imaNNeo/fl_chart)**, a chart library for Flutter (7.5k+ ⭐)
+- ✍️ Posts where I solve UI challenges in Flutter on my **[Blog](https://blog.imanneo.dev)**
+- 🎥 Dev videos on **[YouTube](https://www.youtube.com/@imaNNeO)**
 
 ⚡ Fun fact: I picked **NeO** as my nickname before watching *The Matrix*.
 
-### Featured project
-[![fl_chart](https://github-readme-stats-fast.vercel.app/api/pin/?username=imaNNeo&repo=fl_chart&theme=dracula)](https://github.com/imaNNeo/fl_chart)
+[imanneo.dev](https://imanneo.dev) · [LinkedIn](https://www.linkedin.com/in/iman-khoshabi-7782a9114) · [YouTube](https://www.youtube.com/@imaNNeO) · [X](https://twitter.com/iman__neo) · [Blog](https://blog.imanneo.dev)
